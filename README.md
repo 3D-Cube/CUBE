@@ -1,1 +1,1 @@
-# CUBE
+# 3D cube
